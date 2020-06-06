@@ -3,8 +3,8 @@
 https://covid19-omega.netlify.app
 
 ## How to install
-`$ git clone https://github.com/mlucap.covid19.git/`
-`$ cd covid19`
+`$ git clone https://github.com/mlucap.covid19.git/`  
+`$ cd covid19`  
 `$ npm i && npm start`
 
 ## Available Scripts
